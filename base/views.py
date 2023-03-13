@@ -4,7 +4,7 @@ from django.db.models import Q
 from django.contrib.auth.decorators import login_required
 from django.contrib.auth import authenticate,login,logout
 from django.contrib import messages
-from . models import *
+from .studybud.models import *
 from .forms import *
 
 

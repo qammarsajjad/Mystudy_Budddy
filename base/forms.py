@@ -1,5 +1,5 @@
 from django.forms import ModelForm
-from .models import *
+from .studybud.models import *
 from django.contrib.auth.forms import UserCreationForm
 
 

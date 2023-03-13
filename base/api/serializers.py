@@ -1,5 +1,5 @@
 from rest_framework.serializers import ModelSerializer
-from base.models import Room
+from base.studybud.models import Room
 
 
 class Roomserializers(ModelSerializer):
